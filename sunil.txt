@@ -1,0 +1,9 @@
+You have an api 
+https://jsonplaceholder.typicode.com/todos 
+
+
+Step 1 : is to use and log the data from api.
+Step 2 : make PR to github repo
+Step 3 : deploy this project 
+
+15min
